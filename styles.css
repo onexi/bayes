@@ -1,0 +1,16 @@
+*{
+	font-family: arial;
+	font-size: 1.2em
+} 
+
+div{
+	font-size: 1.2em
+}
+
+.language {
+	color: #4444ff;
+}
+
+.score { 
+	color: #b54040;
+}
