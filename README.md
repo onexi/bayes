@@ -1,2 +1,2 @@
 # ex-bayes-prof
-Exercise Bayes
+Document classification exercise
