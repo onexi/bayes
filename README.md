@@ -1,2 +1,2 @@
-# ex-bayes-prof
+# Naive Bayes
 Document classification exercise
